@@ -10,6 +10,7 @@ Problem descriptions are not included due to LeetCode’s Terms of Service. Inst
 | Problem | Category | Difficulty | Solution |
 |---------|----------|------------|----------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | Easy | [two_sum.py](arrays/two_sum.py) |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List | Easy | [middle_node.py](linked_list/middle_node.py) |
 
 
 # Contributions
